@@ -1,1 +1,1 @@
-EECS 470 Projects 1-3
+EECS 470 Project 1
